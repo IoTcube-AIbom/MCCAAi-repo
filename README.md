@@ -1,4 +1,4 @@
-# MCCAAI repo
+# MCCAAI-repo
 
 Write a one-line description here.  
 Example: This tool takes an input directory (metadata + resources) and outputs a simplified AIBOM result (JSON).
